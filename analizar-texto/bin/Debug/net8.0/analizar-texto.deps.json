@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "analizar-texto/1.0.0": {
+        "runtime": {
+          "analizar-texto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "analizar-texto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

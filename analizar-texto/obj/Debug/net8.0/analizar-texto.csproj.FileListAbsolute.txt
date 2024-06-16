@@ -1,0 +1,14 @@
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\bin\Debug\net8.0\analizar-texto.exe
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\bin\Debug\net8.0\analizar-texto.deps.json
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\bin\Debug\net8.0\analizar-texto.runtimeconfig.json
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\bin\Debug\net8.0\analizar-texto.dll
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\bin\Debug\net8.0\analizar-texto.pdb
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.AssemblyInfoInputs.cache
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.AssemblyInfo.cs
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.csproj.CoreCompileInputs.cache
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.dll
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\refint\analizar-texto.dll
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.pdb
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\analizar-texto.genruntimeconfig.cache
+C:\Users\clau\Desktop\mis repositorios\claudiaDuran-C3\analizar-texto\obj\Debug\net8.0\ref\analizar-texto.dll
