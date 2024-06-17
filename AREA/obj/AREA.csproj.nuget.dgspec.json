@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clau\\Desktop\\mis repositorios\\FUNCION2\\AREA\\AREA.csproj": {}
+    "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-Funciones\\AREA\\AREA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clau\\Desktop\\mis repositorios\\FUNCION2\\AREA\\AREA.csproj": {
+    "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-Funciones\\AREA\\AREA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clau\\Desktop\\mis repositorios\\FUNCION2\\AREA\\AREA.csproj",
+        "projectUniqueName": "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-Funciones\\AREA\\AREA.csproj",
         "projectName": "AREA",
-        "projectPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\FUNCION2\\AREA\\AREA.csproj",
+        "projectPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-Funciones\\AREA\\AREA.csproj",
         "packagesPath": "C:\\Users\\clau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\FUNCION2\\AREA\\obj\\",
+        "outputPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\ClaudiaDuran-Funciones\\AREA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
